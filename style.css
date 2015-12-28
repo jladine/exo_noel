@@ -138,4 +138,41 @@ article ul li {
 #section2 {
   width: 802px;
   margin: auto;
+  padding: 15px;
+  border: 2px solid #DEDEDE;
+  border-radius: 4px;
+  background-color: #F5F5F5;
+  margin-top: 23px;
 }
+
+#div_bouton {
+  border-bottom: 1px solid #DEDEDE;
+  height: 56px;
+}
+
+#bouton_vert {
+  float: right;
+  text-decoration: none;
+  background-color: #5CB85C;
+  color: white;
+  border: 1px solid #479F47;
+  border-radius: 4px;
+  padding: 9px;
+}
+
+#section2 ul {
+  list-style: none;
+}
+
+ #section2 ul li {
+   display: inline-block;
+   margin-left: 3px;
+ }
+
+.noir {
+  color: black;
+  font-size: 12px;
+}
+ .day {
+   float: right;
+ }
